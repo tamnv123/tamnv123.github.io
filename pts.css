@@ -1,0 +1,16 @@
+img{
+    width: 744px;
+    height: 456px;
+
+}
+*{
+
+	box-sizing: border-box;
+
+}
+div{
+
+	float: left;
+	padding: 0px;
+	margin: 0px;
+}
