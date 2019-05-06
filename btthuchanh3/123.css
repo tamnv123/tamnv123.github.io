@@ -1,0 +1,37 @@
+
+*{
+	box-sizing: border-box;
+}
+.1{
+	color:#ffffff;
+}
+.left{
+
+	width: calc(100%/3);
+	float: left;
+	padding-right: 15px;
+}
+.red{
+
+	background-color: red;
+	height: 400px;
+
+}
+.center{
+     width: calc(100%/3);
+     float: left;
+     padding-right: 15px;
+}
+.blue{
+	background-color: blue;
+	height: 400px;
+}
+.right{
+     width: calc(100%/3);
+     float: left;
+     
+}
+.green{
+	background-color: green;
+	height: 400px;
+}
