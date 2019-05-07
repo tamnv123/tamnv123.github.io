@@ -1,0 +1,109 @@
+*{
+
+	box-sizing: border-box;
+}
+.menu{
+     background-color: #a70e1a;
+     height: 50px;
+     margin: top;
+
+
+}
+div{
+	margin: 0px;
+	padding: 0px;
+}
+ul li{
+
+	text-decoration: none;
+	list-style-type: none;
+	float: left;
+	list-style: none;
+	
+}
+h1{
+
+	color: red;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.banner{
+        height: 70px;
+        background-color: #b56108;
+        margin-top: 0px;
+}
+li{
+
+	color: green;
+	text-decoration: none;
+}
+nav{
+	display: block;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 15px;
+}
+nav a:hover {
+    color: #000000;
+}
+.left1{
+    float: left;
+    width: calc(100%/3);
+
+}
+.center1{
+    float: left;
+    width: calc(100%/3);
+
+}
+.right1{
+
+	float: left;
+	width: calc(100%/3);
+}
+.left2{
+    float: left;
+    width: calc(100%/3);
+
+}
+.center2{
+    float: left;
+    width: calc(100%/3);
+
+}
+.right2{
+
+	float: left;
+	width: calc(100%/3);
+}
+.left3{
+    float: left;
+    width: calc(100%/3);
+
+}
+.center3{
+    float: left;
+    width: calc(100%/3);
+
+}
+.right3{
+
+	float: left;
+	width: calc(100%/3);
+}
+.mau1{
+
+	width: 100%;
+	max-height: 500px;
+}
+.noidung img:hover {
+    -webkit-transform: scale(1.2,1.2);
+
+}
