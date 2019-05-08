@@ -1,0 +1,35 @@
+.wapper{
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 15px;
+}
+.red{
+
+    
+    height: 200px;
+}
+.blue{
+
+    height: 200px;
+    
+}
+.green{
+
+    height: 200px;
+    
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+div{
+    background-color: gray;
+    border: 1px blue solid;
+}
+img:hover{
+    transform: scale(1.5);
+}
