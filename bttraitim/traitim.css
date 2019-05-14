@@ -32,4 +32,8 @@ img{
   100% {
     transform: scale( 1 );    
   }
+  .anh img{
+
+        margin: auto;
+  }
 
