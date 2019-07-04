@@ -1,4 +1,5 @@
 let products = [];
+ 
  $.ajax(
  {
   url:'https://tamnv123.github.io/table%203/value.json',
