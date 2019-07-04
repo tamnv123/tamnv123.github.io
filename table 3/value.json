@@ -1,4 +1,4 @@
-  let products = [
+  [
     {
       id: 'MS001',
       name: 'Điện thoại Nokia 105 Single Sim (2017)',
