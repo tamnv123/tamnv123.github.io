@@ -1,0 +1,92 @@
+
+
+/* Small devices (tablets, 768px and up) */
+
+@media (min-width: @screen-sm-min) { ... }
+
+/* Medium devices (desktops, 992px and up) */
+
+@media (min-width: @screen-md-min) { ... }
+
+/* Large devices (large desktops, 1200px and up) */
+
+@media (min-width: @screen-lg-min) { ... }
+
+#head{
+	background-image: linear-gradient(to bottom right,#0FB786,#B0DF77);
+	color: #ffffff;
+}
+#body{
+	background-color: #ffffff;
+}
+#nut{
+	color:#3DC281;
+	border-radius: 5px;
+	background-color: #fff;
+}
+#bang{
+	margin-bottom: 50px;
+}
+.icon{
+	background-color: #B9F4BC;
+	width:65px;
+	height: 65px;
+	border-radius:100%;
+}
+.icon i{
+	margin: auto;
+}
+#creat{
+	background-color: #24B47E;
+	color: #fff;
+	border-radius: 5px;
+}
+#buy{
+	background-color: #fff;
+	color: #24B47E;
+	border-radius: 5px;
+}
+section{
+	margin: 30px;
+}
+p{
+	color: #6B7C93;
+}
+a{
+	color: #fff;
+}
+.row h5{color:#24B47E;}
+.row h6{color:#24B47E;}
+.col{
+	text-align: left;
+	padding: 50px;
+}
+.form-inline input{
+	border-radius:20px;
+	width: 100%;
+	background-color:#94bfaf
+}
+#Testimonal{
+	margin: center;
+}
+p3{
+	color: #24B47E;
+}
+.icon i{
+	margin: center;
+}
+.row{
+	padding: 10px;
+}
+#icon2{
+	margin: auto;
+}
+#Testimonal img{
+	margin: auto;
+}
+.post{
+	text-align: center;
+}
+.col-md-6{
+	border: 3px 6px #888;
+}
