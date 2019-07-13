@@ -1,0 +1,21 @@
+@font-face{
+	font-family: 'playfair_display';
+
+}
+@font-face{
+	font-family: 'inconsolata';
+
+}
+body{
+
+	font-family: 'playfair_display';
+	font-size: 14px;
+	color: #626262;
+}
+.navbar{
+	text-transform: uppercase;
+}
+.navbar-brand{
+	font-family: 'inconsolata';
+	text-transform: uppercase;
+}
